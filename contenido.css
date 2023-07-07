@@ -1,0 +1,27 @@
+/*contenido*/
+
+main {
+    margin: 5%;
+
+}
+
+h5{
+    display: flex;
+    width: 470px;
+    height: 12px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #97D681;
+    font-family: 'Jost', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.info_historia {
+    float: left;
+    margin-left: 20px;
+  }
+.img_historia{
+    
+}
